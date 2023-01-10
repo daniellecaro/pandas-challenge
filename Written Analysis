@@ -1,0 +1,6 @@
+Summarizes the analysis (5 points)
+-In this assignment, we merged two csv files and manipulated them in a variety of ways to view the data sorted by District, School, Performance, Grade (Year in School), Spending per School, Size of School, Type of School. By sorting the data this way, we were able to observe the trends between the number of students in each school, their grades in math, reading, and overall, as well as budget per student. 
+
+Draws two correct conclusions or comparisons from the calculations (10 points)
+- The school with the lowest percentage of students passing both math and reading is Rodriguez High School, coming in at 52.99% passing rate.
+- On average Charter Schools have better math, reading, and overall grades than District Schools. 
